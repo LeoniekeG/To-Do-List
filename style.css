@@ -1,0 +1,13 @@
+body{
+    background-color: coral;
+}
+
+#addbutton{
+    cursor: pointer;
+}
+
+img {
+    max-width: 15px;
+    max-height: 15px;
+    margin-left: 10px;
+}
